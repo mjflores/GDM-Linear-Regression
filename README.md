@@ -1,2 +1,3 @@
-# GDM-Linear-Regression
-This program estimates the Linear Model
+# GDM, Newton, QNewton
+
+Methods GDM, Newton, QNewton
