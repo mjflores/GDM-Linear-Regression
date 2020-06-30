@@ -1,3 +1,3 @@
-# GDM, Newton, QNewton
+# GDM 
 
-Methods GDM, Newton, QNewton
+Linear Regression by using GDM
